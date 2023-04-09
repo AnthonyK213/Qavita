@@ -11,3 +11,5 @@ build-*/
 *.ncb
 *.sdf
 *.opensdf
+*.vcxproj.user
+*.pro.user
