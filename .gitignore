@@ -7,10 +7,7 @@ build-*/
 *.ilk
 *.pdb
 *.suo
-*.vcproj
 *vcproj.*.*.user
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj
-*vcxproj.*
