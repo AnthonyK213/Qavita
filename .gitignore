@@ -1,0 +1,16 @@
+x64/
+bin/
+build-*/
+.vs/
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
