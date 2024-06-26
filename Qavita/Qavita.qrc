@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/Qavita">
-        <file>Qavita.rc</file>
-    </qresource>
-</RCC>
